@@ -32,6 +32,7 @@ You will need:
 -   [Node.js](https://nodejs.org/en/)
 -   [Yarn](https://yarnpkg.com/)
 -   An [Alchemy](https://alchemyapi.io/) API key - see [here](https://docs.alchemyapi.io/guides/quickstart) for instructions on how to get one
+-   A Web3 wallet (e.g. [MetaMask](https://metamask.io/)) connected to the [Goerli test network](https://blog.cryptostars.is/goerli-g%C3%B6rli-testnet-network-to-metamask-and-receiving-test-ethereum-in-less-than-2-min-de13e6fe5677), along with some [test ETH](https://goerlifaucet.com/)
 
 ### Installation
 
