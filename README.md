@@ -8,6 +8,8 @@ It is a simple application built with [Next.js](https://nextjs.org/), [Tailwind 
 
 ![screenshot](screenshot.png)
 
+The Figma file for the application can be found [on this page](https://www.figma.com/file/FwStKLIFvrCfQ9rvaS1sjm/Untitled?node-id=0%3A1&t=E0IzdajTFCvee8u9-1).
+
 ### The App
 
 You are an adventurer on a journey to complete three different quests.
